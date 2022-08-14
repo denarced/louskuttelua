@@ -1,0 +1,802 @@
+{
+    "epithets": {
+        "aasi": null,
+        "aivoton kikkarakuontalo": {
+            "character": "roope setä",
+            "issue": "426",
+            "page": 21,
+            "publication": "aku ankan taskukirja",
+            "title": "rajansa kaikella"
+        },
+        "alhainen aladobi": {
+            "character": "hansu",
+            "issue": "407",
+            "page": 7,
+            "publication": "aku ankan taskukirja",
+            "title": "n.a.m. saa kilpailijan"
+        },
+        "alhainen apinoitsija": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 19,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "alhainen ukuli": {
+            "character": "aku ankka",
+            "issue": "364",
+            "page": 32,
+            "publication": "aku ankan taskukirja",
+            "title": "myrskynmurskaaja"
+        },
+        "alkulima": null,
+        "analfabeetti kirjatoukka": null,
+        "despoottisetä": {
+            "character": "roope setä",
+            "issue": "275",
+            "page": 12,
+            "publication": "aku ankan taskukirja",
+            "title": "rakennemuutoksen kourissa"
+        },
+        "diktaattorikääpä": {
+            "character": "roope setä",
+            "issue": "275",
+            "page": 12,
+            "publication": "aku ankan taskukirja",
+            "title": "rakennemuutoksen kourissa"
+        },
+        "ektoplasma": null,
+        "elostelija": null,
+        "emäkonna": {
+            "character": "mikki hiiri",
+            "issue": "426",
+            "page": 55,
+            "publication": "aku ankan taskukirja",
+            "title": "tarujen ihmeellinen ankki la"
+        },
+        "epeli": {
+            "character": "aku ankka",
+            "issue": "332",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "pallosankari"
+        },
+        "epäkelpo kasvattajan irvikuva": {
+            "character": "roope setä",
+            "issue": "275",
+            "page": 12,
+            "publication": "aku ankan taskukirja",
+            "title": "rakennemuutoksen kourissa"
+        },
+        "epästabiilit epelit": {
+            "character": "aku ankka",
+            "issue": "367",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "lämpöaallon kourissa"
+        },
+        "finanssisintti": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 21,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "haaskalintu": {
+            "character": "roope setä",
+            "issue": "337",
+            "page": 10,
+            "publication": "aku ankan taskukirja",
+            "title": "nelistäjä"
+        },
+        "heittiö": null,
+        "helppoheikki": {
+            "character": "roope setä",
+            "issue": "425",
+            "page": 24,
+            "publication": "aku ankan taskukirja",
+            "title": "puhuvat pakkaukset"
+        },
+        "hemppo": {
+            "character": "roope setä",
+            "issue": "56",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "ankat rahaa paossa"
+        },
+        "hepsankeikka": {
+            "character": "riitta hanhi",
+            "issue": "439",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kuka tahtoo tanssiin"
+        },
+        "hienohelma": null,
+        "hillitön hynäjemmari": null,
+        "hirttämätön lurjus": {
+            "character": "aku ankka",
+            "issue": "2001-48",
+            "page": 13,
+            "publication": "aku ankka",
+            "title": "eläintohtori"
+        },
+        "hohottava hourupää": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 21,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "holhoava harakka": null,
+        "homeinen hömelö": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "hormonoitu hornanhönkijä": {
+            "character": "roope setä",
+            "issue": "385",
+            "page": 23,
+            "publication": "aku ankan taskukirja",
+            "title": "prinssi rahanen"
+        },
+        "houkka": null,
+        "huithapeli": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 13,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "hulttio! Huijari! Puliveivari!": {
+            "character": "roope setä",
+            "issue": "398",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "paistesaaren aarre"
+        },
+        "huomionkipeä kalsarikyylä": {
+            "character": "taikaviitta",
+            "issue": "385",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "hyväntekijä hyökkää"
+        },
+        "hupelo: Hupelot! Pudotin kaikki lautaset.": null,
+        "hupisarjakuvahahmo": null,
+        "hyväkäs": {
+            "character": "mikki hiiri",
+            "issue": "386",
+            "page": 13,
+            "publication": "aku ankan taskukirja",
+            "title": "epäilyttävä vieras"
+        },
+        "hyödytön höttöaivo": {
+            "character": "roope setä",
+            "issue": "445",
+            "page": 1,
+            "publication": "aku ankan taskukirja",
+            "title": "tähtituristit"
+        },
+        "häpeäpilkku": null,
+        "hölmö märkäkorva": {
+            "character": "roope setä",
+            "issue": "435",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "työpaikalla yösydännä"
+        },
+        "hölösuinen hömötiainen": null,
+        "höpertynyt homekorva": {
+            "character": "roope setä",
+            "issue": "396",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "levoton lomakylä"
+        },
+        "höperö haahka": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "höppänä haahka": {
+            "character": "karhuvaari",
+            "issue": "457",
+            "page": 7,
+            "publication": "aku ankan taskukirja",
+            "title": "kaksin karussa"
+        },
+        "höyhenaivo": null,
+        "iiskotti": {
+            "character": "mustakaapu",
+            "issue": "417",
+            "page": 25,
+            "publication": "aku ankan taskukirja",
+            "title": "shakkiloma"
+        },
+        "ikivanha hapankurkku": {
+            "character": "roope setä",
+            "issue": "400",
+            "page": 11,
+            "publication": "aku ankan taskukirja",
+            "title": "rakkaat vihamiehet"
+        },
+        "ikäjättö jäykkäniska": {
+            "character": "roope setä",
+            "issue": "400",
+            "page": 10,
+            "publication": "aku ankan taskukirja",
+            "title": "rakkaat vihamiehet"
+        },
+        "ikäloppu itarus": null,
+        "junanryöstäjä": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 24,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "juorukello": null,
+        "juppierämies": null,
+        "jurakautinen fossiili": {
+            "character": "roope setä",
+            "issue": "435",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "työpaikalla yösydännä"
+        },
+        "juustopää": null,
+        "jämäjemmari": null,
+        "jänishousu": null,
+        "jästipää": null,
+        "kahko": null,
+        "kaistapää": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 18,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "kanalja": null,
+        "karkuri, pelkuri, pinnari": null,
+        "karvapeitteinen kanalja": null,
+        "kavala käärme": null,
+        "kehäraakki": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 8,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "keinottelija": null,
+        "kelmi": null,
+        "keltanokka": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "kelvoton hanhi": null,
+        "kelvoton tolvana": null,
+        "kenkku": null,
+        "ketale": null,
+        "ketkale": null,
+        "ketku": null,
+        "ketvele": null,
+        "kieroileva kirpputoripohatta": {
+            "character": "roope setä",
+            "issue": "434",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "harhalaakson pakolaiset"
+        },
+        "kieroileva tyhjätasku": null,
+        "kihlakahjo hanhi": null,
+        "kikkanokka": null,
+        "kiljukaula": null,
+        "kirjainraastaja": {
+            "character": "mustakaapu",
+            "issue": "417",
+            "page": 25,
+            "publication": "aku ankan taskukirja",
+            "title": "shakkiloma"
+        },
+        "kirpunnylkijä": null,
+        "kiskuri": null,
+        "kitumiljardööri": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "knallikollo": {
+            "character": "aku ankka",
+            "issue": "432",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kolme ankkaa elokuvissa"
+        },
+        "knallipäinen kopiokone": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 19,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "knallipää": null,
+        "kohelo": {
+            "character": "roope setä",
+            "issue": "451",
+            "page": 16,
+            "publication": "aku ankan taskukirja",
+            "title": "pygmalion ja kultainen seppele"
+        },
+        "koijari": {
+            "character": "mustakaapu",
+            "issue": "417",
+            "page": 25,
+            "publication": "aku ankan taskukirja",
+            "title": "shakkiloma"
+        },
+        "koliikki": null,
+        "kollo": null,
+        "koltiainen": null,
+        "kompostiaivo": null,
+        "konkurssimaakari": {
+            "character": "roope setä",
+            "issue": "384",
+            "page": 19,
+            "publication": "aku ankan taskukirja",
+            "title": "andoran ruukku"
+        },
+        "korppikotka": {
+            "character": "tupu, hupu ja lupu",
+            "issue": "406",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kaupunki nimeltä ankkalinna"
+        },
+        "kuhnuri": {
+            "character": "roope setä",
+            "issue": "453",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "ja tähdellinen kulta"
+        },
+        "kuivakka kääpä": null,
+        "kulahtanut kalkkuna": null,
+        "kulahtanut knallipää": {
+            "character": "aku ankka",
+            "issue": "432",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "kolme ankkaa elokuvissa"
+        },
+        "kumipää": null,
+        "kunnoton": {
+            "character": "aku ankka",
+            "issue": "437",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "pakoon, aku ankka"
+        },
+        "kutale": null,
+        "kuuno": null,
+        "kylpykonna": null,
+        "kyylä": {
+            "character": "karhukopla",
+            "issue": "385",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "hyvän käytöksen viikko"
+        },
+        "käppänä": null,
+        "kääkkä": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "kääpä": {
+            "character": "roope setä",
+            "issue": "435",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "työpaikalla yösydännä"
+        },
+        "köydenkiristäjä": null,
+        "lahoaivo": null,
+        "laiskamato": null,
+        "laiskuri": null,
+        "lanttuaivo": null,
+        "lapatossu": null,
+        "latvakakkonen": null,
+        "latvalaho": null,
+        "lemmenkipeä lahopää": null,
+        "liero luikurin laskettelija": null,
+        "loanheittäjä": null,
+        "loiseläjä": null,
+        "loksunokka": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "lortti": {
+            "character": "roope setä",
+            "issue": "399",
+            "page": 8,
+            "publication": "aku ankan taskukirja",
+            "title": "pyramidien salaisuus"
+        },
+        "lorvi": null,
+        "luihuileva lapasotka": null,
+        "luuseri": null,
+        "lättäräpylä": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "löyhäpäinen kutale": {
+            "character": "roope setä",
+            "issue": "429",
+            "page": 12,
+            "publication": "aku ankan taskukirja",
+            "title": "ei oppilas ojaan kaada"
+        },
+        "mammonamuumio": null,
+        "mammonan murto-osia mittaileva finanssifossiili": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "merirosvo": null,
+        "miljonninjoutava likinäköinen hilunhautoja": null,
+        "miljonäärin rupu": null,
+        "mitään tekemätön suurisuu": null,
+        "muinaisjäänne": null,
+        "mulperi": null,
+        "muoska": null,
+        "mäntti": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "märkäkorva": {
+            "character": "roope setä",
+            "issue": "400",
+            "page": 11,
+            "publication": "aku ankan taskukirja",
+            "title": "rakkaat vihamiehet"
+        },
+        "naamiopelle": null,
+        "nahjus": {
+            "character": "aku ankka",
+            "issue": "396",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "itsetunto koetuksella"
+        },
+        "natiainen": null,
+        "nilviäinen": null,
+        "niuhottaja": null,
+        "nolla": null,
+        "nousukas": null,
+        "nuija": {
+            "character": "karhukopla",
+            "issue": "385",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "hyvän käytöksen viikko"
+        },
+        "nulikka": null,
+        "nuljaska": {
+            "character": "roope setä",
+            "issue": "418",
+            "page": 21,
+            "publication": "aku ankan taskukirja",
+            "title": "pulmallinen veronpalautus"
+        },
+        "nyyhkytatti": null,
+        "onnenpekka": null,
+        "pallokorva": null,
+        "patalaiska syöttiläs": null,
+        "patentoitu patustelija": {
+            "character": "aku ankka",
+            "issue": "443",
+            "page": 7,
+            "publication": "aku ankan taskukirja",
+            "title": "navikoirien jäljillä"
+        },
+        "patustelija": null,
+        "penninpyörittäjä": null,
+        "peri-ilkeä": null,
+        "pillerinpyörittäjä": null,
+        "plösö": null,
+        "porhonkuvatus": null,
+        "puhditon, laiskotteleva nahjus": {
+            "character": "aku ankka",
+            "issue": "421",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "sulasta suku tunnetaan"
+        },
+        "puhelinterroristi": null,
+        "puliveivari": null,
+        "pullisteleva rupikonna": null,
+        "puoskari": null,
+        "pussilakanamannekiini": {
+            "character": "musta pekka ja mustakaapu",
+            "issue": "387",
+            "page": 1,
+            "publication": "aku ankan taskukirja",
+            "title": "viimeinen koitos"
+        },
+        "putkinäköinen pölhö": {
+            "character": "roope setä",
+            "issue": "389",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "nuottiavain"
+        },
+        "pyrkyri": null,
+        "pyörävaras": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 24,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "pököpää": null,
+        "pölvästi": null,
+        "pönttö-örvelö": null,
+        "pösilö": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "rahanrei'ittäjä": {
+            "character": "roope setä",
+            "issue": "384",
+            "page": 19,
+            "publication": "aku ankan taskukirja",
+            "title": "andoran ruukku"
+        },
+        "rahjus": null,
+        "rakkari": null,
+        "rasvalettikeikari": {
+            "character": "aku ankka",
+            "issue": "404",
+            "page": 7,
+            "publication": "aku ankan taskukirja",
+            "title": "riippumaton tarina"
+        },
+        "renttu": null,
+        "reseptorirajoitteiset riiviöt": {
+            "character": "aku ankka",
+            "issue": "367",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "lämpöaallon kourissa"
+        },
+        "retku": null,
+        "riemuidiootti": null,
+        "rikkiviisas ketku": null,
+        "rillirousku": null,
+        "rilliryökäle": null,
+        "risuparta": null,
+        "roikale": null,
+        "ruoja": {
+            "character": "aku ankka",
+            "issue": "437",
+            "page": 1,
+            "publication": "aku ankan taskukirja",
+            "title": "pakoon, aku ankka"
+        },
+        "rutusakki": null,
+        "ryynipää": null,
+        "ryökäle": null,
+        "ryöväri": null,
+        "räkänokka": null,
+        "räyskäle": null,
+        "salakyttä": {
+            "character": "mustakaapu",
+            "issue": "417",
+            "page": 25,
+            "publication": "aku ankan taskukirja",
+            "title": "shakkiloma"
+        },
+        "sanansyöjä": null,
+        "sarvisankainen seittejä siivoava tekoteemikko": null,
+        "sekapäinen": null,
+        "selkärangaton pullasorsa": {
+            "character": "aku ankka",
+            "issue": "415",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "universumi talkkunasta"
+        },
+        "sintti": {
+            "character": "roope setä",
+            "issue": "421",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kilpajuoksu keräilijän kintereillä"
+        },
+        "sortaja": null,
+        "sulkapeitteinen hevosenkenkä": {
+            "character": "aku ankka",
+            "issue": "415",
+            "page": 16,
+            "publication": "aku ankan taskukirja",
+            "title": "universumi talkkunasta"
+        },
+        "sulkasatoinen saivare": null,
+        "sunnuntaigrynderi": {
+            "character": "tupu, hupu ja lupu",
+            "issue": "406",
+            "page": 5,
+            "publication": "aku ankan taskukirja",
+            "title": "kaupunki nimeltä ankkalinna"
+        },
+        "suupaltti": null,
+        "sählä": null,
+        "talousfossiili": {
+            "character": "karhukopla",
+            "issue": "386",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "lupa ryöstää"
+        },
+        "tohopää": null,
+        "toivottomin tunari": null,
+        "toope": null,
+        "torvi": null,
+        "tuhvero": null,
+        "tumpunsuoristelija": null,
+        "tunari": null,
+        "tunaroiva turjake": {
+            "character": "aku ankka",
+            "issue": "439",
+            "page": 10,
+            "publication": "aku ankan taskukirja",
+            "title": "hiilloksen herra"
+        },
+        "tyhjäntoimittaja": null,
+        "tyhjätasku": null,
+        "tylsäjärkinen jyrsijä": null,
+        "tyranni": null,
+        "työnvieroksuja": null,
+        "täiturkki": null,
+        "tärähtänyt tehotantta": null,
+        "töppö": null,
+        "törpöin tumpelo": null,
+        "ukuli": {
+            "character": "aku ankka",
+            "issue": "396",
+            "page": 1,
+            "publication": "aku ankan taskukirja",
+            "title": "itsetunto koetuksella"
+        },
+        "unikeko": null,
+        "untelo uikku": null,
+        "untuvakallo": null,
+        "urvelon ärvelö": null,
+        "uuvatti": null,
+        "vaatepuusankari": null,
+        "vaivaiskääkkä": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 11,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "vakoileva huuhkain": {
+            "character": "pelle peloton",
+            "issue": "447",
+            "page": 19,
+            "publication": "aku ankan taskukirja",
+            "title": "ilmaradan urbaani syke"
+        },
+        "vakuumikallo": null,
+        "valepohatta": {
+            "character": "roope setä",
+            "issue": "400",
+            "page": 10,
+            "publication": "aku ankan taskukirja",
+            "title": "rakkaat vihamiehet"
+        },
+        "valepukki": null,
+        "vanha homekorva": null,
+        "vanha kettu": null,
+        "vanha kääpä": null,
+        "vanha läski": null,
+        "vanha verkanuttu": {
+            "character": "aku ankka",
+            "issue": "432",
+            "page": 22,
+            "publication": "aku ankan taskukirja",
+            "title": "kolme ankkaa elokuvissa"
+        },
+        "vanha vuohi": {
+            "character": "aku ankka",
+            "issue": "432",
+            "page": 2,
+            "publication": "aku ankan taskukirja",
+            "title": "kolme ankkaa elokuvissa"
+        },
+        "vanha ärmätti": null,
+        "vatipää": {
+            "character": "aku ankka",
+            "issue": "390",
+            "page": 18,
+            "publication": "aku ankan taskukirja",
+            "title": "pallo haltuun"
+        },
+        "vellihousu": null,
+        "verenimijä": null,
+        "vesilinnunheittäjä": null,
+        "vetelys": null,
+        "vetelä visapää": {
+            "character": "aku ankka",
+            "issue": "403",
+            "page": 3,
+            "publication": "aku ankan taskukirja",
+            "title": "päivä pohattana"
+        },
+        "viiripää": {
+            "character": "roope setä",
+            "issue": "461",
+            "page": 16,
+            "publication": "aku ankan taskukirja",
+            "title": "painonsa arvoinen seikkailu"
+        },
+        "viittaurpo": {
+            "character": "taikaviitta",
+            "issue": "385",
+            "page": 6,
+            "publication": "aku ankan taskukirja",
+            "title": "hyväntekijä hyökkää"
+        },
+        "vikapää": null,
+        "vintiö": null,
+        "visukinttu": null,
+        "vouhko": null,
+        "vähäverinen vastuunväistelijä": null,
+        "vätys": null,
+        "ylimielinen öykkäri": {
+            "character": "mustakaapu",
+            "issue": "417",
+            "page": 25,
+            "publication": "aku ankan taskukirja",
+            "title": "shakkiloma"
+        },
+        "äkäpussi": null,
+        "änkyrä": null,
+        "ärmätti": null,
+        "ääliö": null,
+        "ääntelevä höyhenpussi": {
+            "character": "aku ankka",
+            "issue": "415",
+            "page": 4,
+            "publication": "aku ankan taskukirja",
+            "title": "universumi talkkunasta"
+        }
+    }
+}
