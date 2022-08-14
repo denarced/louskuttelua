@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import json
 
 
@@ -8,14 +6,7 @@ def check_whitespace(container, key):
     assert value == value.strip(), (f"Invalid {key}: <{value}>", container)
 
 
-def validate(epithet, details):
-    assert epithet is not None
-    assert epithet == epithet.strip(), "Epithet has blanks: " + epithet
-    assert len(epithet) > 0, ("Epithet is empty", details)
-
-    if details is None:
-        return
-
+def validate_details(details):
     assert len(details) == 5, details
     assert details["page"] is not None, ("Null page", details)
     assert isinstance(details["page"], int), ("Page isn't a number", details)
@@ -27,6 +18,16 @@ def validate(epithet, details):
         assert len(details[each]) > 0, ("Empty " + each, details)
 
     assert details["publication"] in ("aku ankan taskukirja", "aku ankka")
+
+
+def validate(epithet, details):
+    assert epithet is not None
+    assert epithet == epithet.strip(), "Epithet has blanks: " + epithet
+    assert len(epithet) > 0, ("Epithet is empty", details)
+
+    assert details is not None
+    for each in details:
+        validate_details(each)
 
 
 def main():
