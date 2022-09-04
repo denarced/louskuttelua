@@ -543,7 +543,15 @@
                 "title": "pyramidien salaisuus"
             }
         ],
-        "lorvi": [],
+        "lorvi": [
+            {
+                "character": "roope setä",
+                "issue": "100",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "koiranputki"
+            }
+        ],
         "luihuileva lapasotka": [],
         "luuseri": [],
         "lättäräpylä": [
