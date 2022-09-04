@@ -924,6 +924,15 @@
         "vanha kettu": [],
         "vanha kääpä": [],
         "vanha läski": [],
+        "vanha pönttö": [
+            {
+                "character": "roope setä",
+                "issue": "467",
+                "page": 32,
+                "publication": "aku ankan taskukirja",
+                "title": "mesotsooinen aikarepeämä"
+            }
+        ],
         "vanha verkanuttu": [
             {
                 "character": "aku ankka",
