@@ -189,7 +189,15 @@
                 "title": "prinssi rahanen"
             }
         ],
-        "houkka": [],
+        "houkka": [
+            {
+                "character": "aku ankka",
+                "issue": "89",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "foinikialainen savitaulu"
+            }
+        ],
         "huithapeli": [
             {
                 "character": "roope setä",
