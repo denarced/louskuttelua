@@ -86,6 +86,15 @@
                 "title": "rakennemuutoksen kourissa"
             }
         ],
+        "epäkypsä räkänokka": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "epästabiilit epelit": [
             {
                 "character": "aku ankka",
@@ -120,6 +129,13 @@
                 "page": 10,
                 "publication": "aku ankan taskukirja",
                 "title": "nelistäjä"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
             }
         ],
         "heittiö": [],
@@ -254,6 +270,15 @@
                 "title": "tähtituristit"
             }
         ],
+        "hyödytön tyhjänpantti": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 1"
+            }
+        ],
         "häpeäpilkku": [],
         "hölmö märkäkorva": [
             {
@@ -336,6 +361,15 @@
                 "title": "rakkaat vihamiehet"
             }
         ],
+        "ikuinen vätys": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "ikäjättö jäykkäniska": [
             {
                 "character": "roope setä",
@@ -345,7 +379,15 @@
                 "title": "rakkaat vihamiehet"
             }
         ],
-        "ikäloppu itarus": [],
+        "ikäloppu itarus": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "junanryöstäjä": [
             {
                 "character": "pelle peloton",
@@ -377,7 +419,15 @@
                 "title": "mesotsooinen aikarepeämä"
             }
         ],
-        "jästipää": [],
+        "jästipää": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 1"
+            }
+        ],
         "kahko": [],
         "kaistapää": [
             {
@@ -428,7 +478,15 @@
                 "title": "harhalaakson pakolaiset"
             }
         ],
-        "kieroileva tyhjätasku": [],
+        "kieroileva tyhjätasku": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "kihlakahjo hanhi": [],
         "kikkanokka": [],
         "kiljukaula": [],
@@ -441,7 +499,15 @@
                 "title": "shakkiloma"
             }
         ],
-        "kirpunnylkijä": [],
+        "kirpunnylkijä": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "kiskuri": [],
         "kitumiljardööri": [
             {
@@ -470,7 +536,15 @@
                 "title": "ilmaradan urbaani syke"
             }
         ],
-        "knallipää": [],
+        "knallipää": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "kohelo": [
             {
                 "character": "roope setä",
@@ -553,7 +627,15 @@
                 "title": "hyvän käytöksen viikko"
             }
         ],
-        "käppänä": [],
+        "käppänä": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "kävelevä untuvatyyny": [
             {
                 "character": "roope setä",
@@ -640,7 +722,15 @@
                 "title": "ei oppilas ojaan kaada"
             }
         ],
-        "mammonamuumio": [],
+        "mammonamuumio": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "mammonan murto-osia mittaileva finanssifossiili": [
             {
                 "character": "roope setä",
@@ -682,6 +772,13 @@
                 "page": 11,
                 "publication": "aku ankan taskukirja",
                 "title": "rakkaat vihamiehet"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
             }
         ],
         "naamiopelle": [],
@@ -694,7 +791,15 @@
                 "title": "itsetunto koetuksella"
             }
         ],
-        "natiainen": [],
+        "natiainen": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 1"
+            }
+        ],
         "nilviäinen": [],
         "niuhottaja": [],
         "nolla": [],
@@ -851,6 +956,15 @@
         "ryöväri": [],
         "räkänokka": [],
         "räyskäle": [],
+        "saituri": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 2"
+            }
+        ],
         "salakyttä": [
             {
                 "character": "mustakaapu",
@@ -1057,6 +1171,15 @@
         "vintiö": [],
         "visukinttu": [],
         "vouhko": [],
+        "vähäverinen vastarannankiiski": [
+            {
+                "character": "taikaviitta",
+                "issue": "491",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "paratiisitien majatalo, osa 1"
+            }
+        ],
         "vähäverinen vastuunväistelijä": [],
         "vätys": [],
         "ylimielinen öykkäri": [
