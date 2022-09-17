@@ -1042,6 +1042,15 @@
                 "title": "hiilloksen herra"
             }
         ],
+        "tusinadespootti": [
+            {
+                "character": "mikki hiiri",
+                "issue": "471",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "eilispäivän huominen, osa 2"
+            }
+        ],
         "tyhjäntoimittaja": [],
         "tyhjätasku": [],
         "tylsäjärkinen jyrsijä": [],
@@ -1136,7 +1145,15 @@
                 "title": "pallo haltuun"
             }
         ],
-        "vellihousu": [],
+        "vellihousu": [
+            {
+                "character": "mikki hiiri",
+                "issue": "471",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "eilispäivän huominen, osa 2"
+            }
+        ],
         "verenimijä": [],
         "vesilinnunheittäjä": [],
         "vetelys": [],
