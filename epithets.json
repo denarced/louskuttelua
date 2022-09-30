@@ -600,7 +600,15 @@
             }
         ],
         "koliikki": [],
-        "kollo": [],
+        "kollo": [
+            {
+                "character": "yksityisetsivä ankka",
+                "issue": "473",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "uskallus hukassa"
+            }
+        ],
         "koltiainen": [],
         "kompostiaivo": [],
         "konkurssimaakari": [
