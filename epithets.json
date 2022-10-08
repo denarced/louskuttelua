@@ -906,6 +906,15 @@
         "patustelija": [],
         "penninpyörittäjä": [],
         "peri-ilkeä": [],
+        "piimäparta": [
+            {
+                "character": "juuso",
+                "issue": "475",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "kiperin kysymys"
+            }
+        ],
         "pillerinpyörittäjä": [],
         "plösö": [],
         "porhonkuvatus": [],
@@ -1221,7 +1230,15 @@
                 "title": "eilispäivän huominen, osa 2"
             }
         ],
-        "verenimijä": [],
+        "verenimijä": [
+            {
+                "character": "juuso",
+                "issue": "475",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "kiperin kysymys"
+            }
+        ],
         "vesilinnunheittäjä": [],
         "vetelys": [],
         "vetelä visapää": [
