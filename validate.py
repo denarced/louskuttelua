@@ -1,3 +1,5 @@
+#!venv/bin/python
+
 import json
 
 
@@ -17,7 +19,8 @@ def validate_details(details):
         check_whitespace(details, each)
         assert len(details[each]) > 0, ("Empty " + each, details)
 
-    assert details["publication"] in ("aku ankan taskukirja", "aku ankka")
+    publication = details["publication"]
+    assert publication in ("aku ankan taskukirja", "aku ankka"), publication
 
 
 def validate(epithet, details):
