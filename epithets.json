@@ -1132,7 +1132,15 @@
         "tohopää": [],
         "toivottomin tunari": [],
         "toope": [],
-        "torvi": [],
+        "torvi": [
+            {
+                "character": "roope setä",
+                "issue": "92",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "viisaiden koulu"
+            }
+        ],
         "tuhvero": [],
         "tumpunsuoristelija": [],
         "tunari": [],
