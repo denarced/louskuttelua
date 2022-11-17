@@ -484,6 +484,15 @@
             }
         ],
         "kanalja": [],
+        "kanavaras": [
+            {
+                "character": "roope setä",
+                "issue": "479",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "vuokramolekyylit"
+            }
+        ],
         "karkuri, pelkuri, pinnari": [],
         "karvapeitteinen kanalja": [],
         "kavala käärme": [],
@@ -730,6 +739,13 @@
                 "page": 3,
                 "publication": "aku ankan taskukirja",
                 "title": "työpaikalla yösydännä"
+            },
+            {
+                "character": "roope setä",
+                "issue": "479",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "vuokramolekyylit"
             }
         ],
         "köydenkiristäjä": [],
