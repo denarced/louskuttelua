@@ -9,15 +9,19 @@ def check_whitespace(container, key):
 
 
 def validate_details(details):
-    assert len(details) == 5, details
+    assert 4 <= len(details) <= 5, details
     assert details["page"] is not None, ("Null page", details)
     assert isinstance(details["page"], int), ("Page isn't a number", details)
     assert details["page"] > 0, ("Invalid page", details)
 
-    for each in ("character", "issue", "publication", "title"):
+    def do_validate(attribute):
+        check_whitespace(details, attribute)
+        assert len(details[attribute]) > 0, ("Empty " + attribute, details)
+    if "character" in details:
+        do_validate("character")
+    for each in ("issue", "publication", "title"):
         assert details[each] is not None
-        check_whitespace(details, each)
-        assert len(details[each]) > 0, ("Empty " + each, details)
+        do_validate(each)
 
     publication = details["publication"]
     assert publication in ("aku ankan taskukirja", "aku ankka"), publication
