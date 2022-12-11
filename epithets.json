@@ -808,7 +808,15 @@
             }
         ],
         "lahoaivo": [],
-        "laiskamato": [],
+        "laiskamato": [
+            {
+                "character": "aku ankka",
+                "issue": "483",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "vaihtelu virkistää"
+            }
+        ],
         "laiskuri": [],
         "lanttuaivo": [],
         "lapatossu": [],
