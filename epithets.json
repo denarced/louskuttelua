@@ -1234,7 +1234,15 @@
                 "title": "nuottiavain"
             }
         ],
-        "pyrkyri": [],
+        "pyrkyri": [
+            {
+                "character": "roope setä",
+                "issue": "486",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "korvenraivaajien Klondike - osa 1: vanhassa vara parempi"
+            }
+        ],
         "pyörävaras": [
             {
                 "character": "pelle peloton",
