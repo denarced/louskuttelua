@@ -622,7 +622,15 @@
         "kenkku": [],
         "ketale": [],
         "ketkale": [],
-        "ketku": [],
+        "ketku": [
+            {
+                "character": "roope setä",
+                "issue": "486",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "korvenraivaajien Klondike - osa 2: kylmäkourainen vallankaappaus"
+            }
+        ],
         "ketvele": [],
         "kieroileva kirpputoripohatta": [
             {
