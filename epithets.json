@@ -1346,7 +1346,15 @@
         "ryynipää": [],
         "ryökäle": [],
         "ryöväri": [],
-        "räkänokka": [],
+        "räkänokka": [
+            {
+                "character": "roope setä",
+                "issue": "486",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "korvenraivaajien Klondike - osa 1: vanhassa vara parempi"
+            }
+        ],
         "räkättävä loksunokka": [
             {
                 "character": "roope setä",
