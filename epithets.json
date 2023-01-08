@@ -600,7 +600,15 @@
             }
         ],
         "keinottelija": [],
-        "kelmi": [],
+        "kelmi": [
+            {
+                "character": "roope setä",
+                "issue": "487",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "ankkava kaunoinen"
+            }
+        ],
         "keltanokka": [
             {
                 "character": "roope setä",
