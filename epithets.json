@@ -1477,6 +1477,15 @@
         ],
         "patustelija": [],
         "penninpyörittäjä": [],
+        "penninvenyttäjä": [
+            {
+                "character": "aku ankka",
+                "issue": "491",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "valdemar waakun perintö"
+            }
+        ],
         "peri-ilkeä": [],
         "petturi": [
             {
