@@ -2258,7 +2258,15 @@
                 "title": "pikku ankkoja (ja isompiakin), osa 1"
             }
         ],
-        "visukinttu": [],
+        "visukinttu": [
+            {
+                "character": "aku ankka",
+                "issue": "491",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "valdemar waakun perintö"
+            }
+        ],
         "vouhko": [],
         "vähäverinen vastarannankiiski": [
             {
