@@ -883,7 +883,15 @@
         ],
         "kihlakahjo hanhi": [],
         "kikkanokka": [],
-        "kiljukaula": [],
+        "kiljukaula": [
+            {
+                "character": "taikaviitta",
+                "issue": "492",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "mies naamion takana, osa 1"
+            }
+        ],
         "kirjainraastaja": [
             {
                 "character": "mustakaapu",
