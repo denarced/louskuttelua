@@ -723,7 +723,15 @@
                 "title": "korvenraivaajien Klondike - osa 1: vanhassa vara parempi"
             }
         ],
-        "kanalja": [],
+        "kanalja": [
+            {
+                "character": "aku ankka",
+                "issue": "492",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "onnenkiehkura"
+            }
+        ],
         "kanavaras": [
             {
                 "character": "roope setä",
