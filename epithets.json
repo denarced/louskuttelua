@@ -2463,7 +2463,15 @@
                 "title": "kiperin kysymys"
             }
         ],
-        "tyhjätasku": [],
+        "tyhjätasku": [
+            {
+                "character": "roope setä",
+                "issue": "493",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "kepulipeliä kuussa"
+            }
+        ],
         "tylsäjärkinen jyrsijä": [],
         "tyranni": [
             {
