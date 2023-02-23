@@ -1332,7 +1332,15 @@
                 "title": "kelmien saari"
             }
         ],
-        "kutale": [],
+        "kutale": [
+            {
+                "character": "roope-setä",
+                "issue": "498",
+                "page": 13,
+                "publication": "aku ankan taskukirja",
+                "title": "mitä tapahtui rahasäiliölle?"
+            }
+        ],
         "kuuno": [],
         "kylpykonna": [],
         "kyylä": [
