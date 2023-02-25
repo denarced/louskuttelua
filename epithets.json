@@ -1669,6 +1669,15 @@
                 "title": "naamioleikki"
             }
         ],
+        "mahtaileva kitupiikki": [
+            {
+                "character": "taikaviitta",
+                "issue": "499",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "sankarin syntytarina"
+            }
+        ],
         "maltokallo": [
             {
                 "character": "roope-setä ja kroisos pennonen",
@@ -2106,6 +2115,13 @@
                 "page": 5,
                 "publication": "aku ankan taskukirja",
                 "title": "tehokolmikko tulikokeessa"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "499",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "sankarin syntytarina"
             }
         ],
         "pilalle hemmoteltu heitukka": [
@@ -2233,6 +2249,15 @@
                 "page": 26,
                 "publication": "aku ankan taskukirja",
                 "title": "maahisen malja"
+            }
+        ],
+        "pässinpää": [
+            {
+                "character": "aku ankka",
+                "issue": "499",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "se parhaiten nauraa..."
             }
         ],
         "pököpää": [],
@@ -2430,6 +2455,15 @@
                 "page": 4,
                 "publication": "aku ankan taskukirja",
                 "title": "valdemar waakun perintö"
+            }
+        ],
+        "saamaton sohvaperuna": [
+            {
+                "character": "taikaviitta",
+                "issue": "499",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "sankarin syntytarina"
             }
         ],
         "saituri": [
@@ -2755,6 +2789,15 @@
                 "title": "minuuden monet kasvot"
             }
         ],
+        "tyhjänpantti": [
+            {
+                "character": "taikaviitta",
+                "issue": "499",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "sankarin syntytarina"
+            }
+        ],
         "tyhjäntoimittaja": [],
         "tyhjäpää": [
             {
@@ -3054,6 +3097,13 @@
                 "page": 23,
                 "publication": "aku ankan taskukirja",
                 "title": "kiperin kysymys"
+            },
+            {
+                "character": "taikaviitta",
+                "issue": "499",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "sankarin syntytarina"
             }
         ],
         "vesilinnunheittäjä": [],
