@@ -3,7 +3,7 @@
 import json
 
 
-def main():
+def format_main_json():
     with open("epithets.json", encoding="utf-8") as filep:
         data = json.load(filep)
     with open("epithets.json", "w", encoding="utf-8") as filep:
@@ -16,4 +16,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    format_main_json()

@@ -37,7 +37,7 @@ def validate(epithet, details):
         validate_details(each)
 
 
-def main():
+def validate_main_json():
     with open("epithets.json", encoding="utf-8") as filep:
         epithets = json.load(filep)["epithets"]
     for epithet, details in epithets.items():
@@ -45,4 +45,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    validate_main_json()
