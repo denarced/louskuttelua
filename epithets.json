@@ -2481,7 +2481,15 @@
         ],
         "rutusakki": [],
         "ryynipää": [],
-        "ryökäle": [],
+        "ryökäle": [
+            {
+                "character": "taikaviitta",
+                "issue": "500",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "onni yhdellä, loma molemmilla, osa 2"
+            }
+        ],
         "ryöväri": [],
         "räkänokka": [
             {
