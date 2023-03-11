@@ -3854,7 +3854,15 @@
             }
         ],
         "vähäverinen vastuunväistelijä": [],
-        "vätys": [],
+        "vätys": [
+            {
+                "character": "taikaviitta",
+                "issue": "504",
+                "page": 1,
+                "publication": "aku ankan taskukirja",
+                "title": "sankari satimessa, osa 1"
+            }
+        ],
         "vätystelevä vellihousu": [
             {
                 "character": "taikaviitta",
