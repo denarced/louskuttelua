@@ -3555,7 +3555,15 @@
                 "title": "vaihtelu virkistää"
             }
         ],
-        "unikeko": [],
+        "unikeko": [
+            {
+                "character": "taikaviitta",
+                "issue": "504",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "sankari satimessa, osa 1"
+            }
+        ],
         "untelo uikku": [],
         "untuvakallo": [],
         "upporikas uivelo": [
