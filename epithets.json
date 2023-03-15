@@ -3589,7 +3589,15 @@
                 "title": "sankarin syntytarina"
             }
         ],
-        "tyhjäntoimittaja": [],
+        "tyhjäntoimittaja": [
+            {
+                "character": "touho ankka",
+                "issue": "505",
+                "page": 3,
+                "publication": "aku ankan taskukirja",
+                "title": "uuttera unissakävelijä"
+            }
+        ],
         "tyhjäpää": [
             {
                 "character": "juuso",
