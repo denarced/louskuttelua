@@ -2994,7 +2994,15 @@
         "rikkiviisas ketku": [],
         "rillirousku": [],
         "rilliryökäle": [],
-        "risuparta": [],
+        "risuparta": [
+            {
+                "character": "taikaviitta",
+                "issue": "506",
+                "page": 12,
+                "publication": "aku ankan taskukirja",
+                "title": "vihollinen vuosituhansien takaa"
+            }
+        ],
         "roikale": [],
         "roisto": [
             {
