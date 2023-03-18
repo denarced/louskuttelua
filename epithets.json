@@ -2535,7 +2535,15 @@
                 "title": "aristoteleen akilleenkantapää"
             }
         ],
-        "pallokorva": [],
+        "pallokorva": [
+            {
+                "character": "mikki hiiri",
+                "issue": "507",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "taivaanpuhkojan valloitus, osa 2"
+            }
+        ],
         "parantumaton vetelys": [
             {
                 "character": "aku ankka",
