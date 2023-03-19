@@ -3214,7 +3214,15 @@
                 "title": "noiduttu onni"
             }
         ],
-        "ryöväri": [],
+        "ryöväri": [
+            {
+                "character": "mikki hiiri",
+                "issue": "508",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "näkymätön kaapu, osa 1"
+            }
+        ],
         "rähmätassu": [
             {
                 "character": "roope-setä",
