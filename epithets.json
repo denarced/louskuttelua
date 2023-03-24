@@ -1424,7 +1424,15 @@
                 "title": "kultasuolapulma"
             }
         ],
-        "kikkanokka": [],
+        "kikkanokka": [
+            {
+                "character": "mikki hiiri & musta pekka",
+                "issue": "510",
+                "page": 23,
+                "publication": "aku ankan taskukirja",
+                "title": "viimeinen mahdollisuus"
+            }
+        ],
         "kiljukaula": [
             {
                 "character": "taikaviitta",
