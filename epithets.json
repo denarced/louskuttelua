@@ -4247,7 +4247,15 @@
                 "title": "kauhujen huvipuisto"
             }
         ],
-        "toope": [],
+        "toope": [
+            {
+                "character": "aku ja touho",
+                "issue": "512",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "löytötavaraa"
+            }
+        ],
         "torvelo": [
             {
                 "character": "aku ankka",
