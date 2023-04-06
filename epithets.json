@@ -5411,7 +5411,15 @@
                 "title": "kuin kastanjat pannulla"
             }
         ],
-        "äkäpussi": [],
+        "äkäpussi": [
+            {
+                "character": "taikaviitta",
+                "issue": "514",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "riskialtis risteily"
+            }
+        ],
         "älyjättö": [
             {
                 "character": "musta pekka",
