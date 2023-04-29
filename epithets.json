@@ -3059,7 +3059,15 @@
                 "title": "minuuden monet kasvot"
             }
         ],
-        "naamiopelle": [],
+        "naamiopelle": [
+            {
+                "character": "taikaviitta",
+                "issue": "516",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "turveturnipsi"
+            }
+        ],
         "naavaparta": [
             {
                 "character": "roope-setä",
