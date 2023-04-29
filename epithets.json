@@ -2848,7 +2848,15 @@
                 "title": "lainahenkivartija"
             }
         ],
-        "mulperi": [],
+        "mulperi": [
+            {
+                "character": "aku ankka",
+                "issue": "72",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
         "muoska": [],
         "muumio": [
             {
