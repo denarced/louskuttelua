@@ -390,7 +390,15 @@
                 "title": "suuri munaryöstö"
             }
         ],
-        "hienohelma": [],
+        "hienohelma": [
+            {
+                "character": "taikaviitta",
+                "issue": "516",
+                "page": 14,
+                "publication": "aku ankan taskukirja",
+                "title": "turveturnipsi"
+            }
+        ],
         "hillitön hynäjemmari": [],
         "hirmuhallitsija": [
             {
