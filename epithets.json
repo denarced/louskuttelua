@@ -3078,7 +3078,15 @@
                 "title": "raplaulajan vapaapäivä"
             }
         ],
-        "nilviäinen": [],
+        "nilviäinen": [
+            {
+                "character": "aku ankka",
+                "issue": "72",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
         "niuhottaja": [],
         "nokkava nousukas": [
             {
