@@ -5178,7 +5178,15 @@
                 "title": "vuoden bisneshai, osa 2"
             }
         ],
-        "vaatepuusankari": [],
+        "vaatepuusankari": [
+            {
+                "character": "aku ankka",
+                "issue": "72",
+                "page": 7,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
         "vaivaiskääkkä": [
             {
                 "character": "pelle peloton",
