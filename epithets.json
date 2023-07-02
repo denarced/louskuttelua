@@ -5067,7 +5067,15 @@
                 "title": "kolmistaan kaikkia vastaan"
             }
         ],
-        "suupaltti": [],
+        "suupaltti": [
+            {
+                "character": "roope-setä",
+                "issue": "227",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "veroparatiisi"
+            }
+        ],
         "suuruudenhullu haihattelija": [
             {
                 "character": "tupu, hupu ja lupu",
