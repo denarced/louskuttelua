@@ -6696,7 +6696,15 @@
                 "title": "kiukkupussukka"
             }
         ],
-        "änkyrä": [],
+        "änkyrä": [
+            {
+                "character": "roope-setä",
+                "issue": "523",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "vuosisadan vaalitaisto, osa 3"
+            }
+        ],
         "äreä itarus": [
             {
                 "character": "roope-setä",
