@@ -3079,7 +3079,15 @@
             }
         ],
         "loanheittäjä": [],
-        "loiseläjä": [],
+        "loiseläjä": [
+            {
+                "character": "roope-setä",
+                "issue": "526",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "puntit tasan"
+            }
+        ],
         "loksunokka": [
             {
                 "character": "roope-setä",
