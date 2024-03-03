@@ -6960,7 +6960,15 @@
                 "title": "myyntikelvoton myyntimenestys"
             }
         ],
-        "vintiö": [],
+        "vintiö": [
+            {
+                "character": "roope-setä",
+                "issue": "17",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-sedän kaksoisolento"
+            }
+        ],
         "virttynyt vanhapiika": [
             {
                 "issue": "481",
