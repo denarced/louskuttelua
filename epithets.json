@@ -7855,7 +7855,15 @@
             }
         ],
         "ärmätti": [],
-        "ääliö": [],
+        "ääliö": [
+            {
+                "character": "roope-setä",
+                "issue": "12",
+                "page": 29,
+                "publication": "aku ankan taskukirja",
+                "title": "ankat aivopesussa (jos on mitä pestä)"
+            }
+        ],
         "ääntelevä höyhenpussi": [
             {
                 "character": "aku ankka",
