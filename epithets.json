@@ -1,6 +1,14 @@
 {
     "epithets": {
-        "aasi": [],
+        "aasi": [
+            {
+                "character": "roope-setä",
+                "issue": "17",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja törkylahden turskat"
+            }
+        ],
         "aatelisvaras": [
             {
                 "character": "aku ankka",
