@@ -9240,7 +9240,15 @@
                 "title": "vaihtelu virkistää"
             }
         ],
-        "vetelys": [],
+        "vetelys": [
+            {
+                "character": "aku ankka",
+                "issue": "18",
+                "page": 8,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ankka ja taikuri roberto"
+            }
+        ],
         "vetelä visapää": [
             {
                 "character": "aku ankka",
