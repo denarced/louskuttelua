@@ -3321,7 +3321,15 @@
                 "title": "markkijohtaja"
             }
         ],
-        "koltiainen": [],
+        "koltiainen": [
+            {
+                "character": "roope ankka",
+                "issue": "20",
+                "page": 56,
+                "publication": "aku ankan taskukirja",
+                "title": "roope ankan arkki"
+            }
+        ],
         "kolttonen": [
             {
                 "character": "touho ankka",
