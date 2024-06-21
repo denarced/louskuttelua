@@ -6280,7 +6280,15 @@
                 "title": "pallokoulu kiertueella, toinen puoliaika"
             }
         ],
-        "puliveivari": [],
+        "puliveivari": [
+            {
+                "character": "roope-setä",
+                "issue": "21",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-sedän vanha kirjoituskone"
+            }
+        ],
         "pullisteleva rupikonna": [],
         "pullsorsa": [
             {
