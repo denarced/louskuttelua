@@ -6202,7 +6202,15 @@
                 "title": "pulfagor"
             }
         ],
-        "patustelija": [],
+        "patustelija": [
+            {
+                "character": "roope-setä",
+                "issue": "28",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "kovan onnen ompelukoneet"
+            }
+        ],
         "paviaani": [
             {
                 "character": "aku ankka",
