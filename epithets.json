@@ -2933,7 +2933,15 @@
                 "title": "taikariitta ja vastaansanomattomat viisaudet"
             }
         ],
-        "kavala käärme": [],
+        "kavala käärme": [
+            {
+                "character": "roope-setä",
+                "issue": "37",
+                "page": 47,
+                "publication": "aku ankan taskukirja",
+                "title": "lentävä viikinkilaiva"
+            }
+        ],
         "kehveli": [
             {
                 "character": "roope-setä",
