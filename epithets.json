@@ -9970,7 +9970,15 @@
             }
         ],
         "tumpunsuoristelija": [],
-        "tunari": [],
+        "tunari": [
+            {
+                "character": "roope-setä",
+                "issue": "38",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "roopen ihmetutka"
+            }
+        ],
         "tunaroinnin epävirallinen ennätysmies": [
             {
                 "character": "riitta hanhi",
