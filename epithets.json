@@ -7542,7 +7542,15 @@
                 "title": "näkymätön kaapu, osa 1"
             }
         ],
-        "puoskari": [],
+        "puoskari": [
+            {
+                "character": "roope-setä",
+                "issue": "39",
+                "page": 64,
+                "publication": "aku ankan taskukirja",
+                "title": "cagliostron kreivin hansikkaat"
+            }
+        ],
         "pussilakanamannekiini": [
             {
                 "character": "musta pekka ja mustakaapu",
