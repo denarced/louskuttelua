@@ -3592,7 +3592,15 @@
                 "title": "satu aku tuhkimosta"
             }
         ],
-        "ketale": [],
+        "ketale": [
+            {
+                "character": "roope-setä",
+                "issue": "43",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja aavikon kulta"
+            }
+        ],
         "ketkale": [],
         "ketku": [
             {
