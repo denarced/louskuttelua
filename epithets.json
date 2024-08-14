@@ -3361,7 +3361,15 @@
                 "title": "vuosisadan vaalitaisto, osa 4"
             }
         ],
-        "keinottelija": [],
+        "keinottelija": [
+            {
+                "character": "aku ankka",
+                "issue": "50",
+                "page": 30,
+                "publication": "aku ankan taskukirja",
+                "title": "roope-setä ja merikäärme"
+            }
+        ],
         "kelju": [
             {
                 "character": "aku ankka",
