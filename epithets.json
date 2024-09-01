@@ -810,7 +810,15 @@
                 "title": "turveturnipsi"
             }
         ],
-        "heittiö": [],
+        "heittiö": [
+            {
+                "character": "aku ankka",
+                "issue": "66",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "esinäytös"
+            }
+        ],
         "helppoheikki": [
             {
                 "character": "roope-setä",
