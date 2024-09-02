@@ -14199,7 +14199,15 @@
                 "title": "roope-setä ja merikäärme"
             }
         ],
-        "vanha kettu": [],
+        "vanha kettu": [
+            {
+                "character": "aku ankka",
+                "issue": "66",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "apeiden apinoiden saari"
+            }
+        ],
         "vanha kiero": [
             {
                 "character": "roope-setä",
