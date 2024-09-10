@@ -5045,7 +5045,15 @@
                 "title": "vuosisadan vaalitaisto, esinäytös"
             }
         ],
-        "kiskuri": [],
+        "kiskuri": [
+            {
+                "character": "aku ankka",
+                "issue": "71",
+                "page": 64,
+                "publication": "aku ankan taskukirja",
+                "title": "aku hoodin tarina"
+            }
+        ],
         "kitsas vääräleuka": [
             {
                 "character": "roope-setä",
