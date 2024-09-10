@@ -11035,7 +11035,15 @@
                 "title": "taikaviitta taas vauhdissa"
             }
         ],
-        "retku": [],
+        "retku": [
+            {
+                "character": "aku ankka",
+                "issue": "71",
+                "page": 24,
+                "publication": "aku ankan taskukirja",
+                "title": "ankkalinnan muurin salaisuus"
+            }
+        ],
         "riemuidiootti": [],
         "rienaaja": [
             {
