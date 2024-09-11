@@ -4645,7 +4645,15 @@
             }
         ],
         "kelvoton tolvana": [],
-        "kenkku": [],
+        "kenkku": [
+            {
+                "character": "aku ankka",
+                "issue": "72",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "tapahtumarikas lomamatka"
+            }
+        ],
         "kenokaulainen keikari": [
             {
                 "character": "aku ankka",
