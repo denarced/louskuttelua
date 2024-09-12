@@ -16792,7 +16792,15 @@
                 "title": "hyväntekijä hyökkää"
             }
         ],
-        "vikapää": [],
+        "vikapää": [
+            {
+                "character": "taikaviitta",
+                "issue": "72",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ja ensimmäinen koulupäivä"
+            }
+        ],
         "villikarju": [
             {
                 "character": "aku ankka",
