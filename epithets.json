@@ -4811,7 +4811,15 @@
                 "title": "taikaviitta taas vauhdissa"
             }
         ],
-        "ketvele": [],
+        "ketvele": [
+            {
+                "character": "taikaviitta",
+                "issue": "72",
+                "page": 53,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ja ensimmäinen koulupäivä"
+            }
+        ],
         "ketveli": [
             {
                 "character": "taikaviitta",
