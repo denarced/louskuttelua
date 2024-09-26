@@ -8488,7 +8488,15 @@
                 "title": "esinäytös"
             }
         ],
-        "muoska": [],
+        "muoska": [
+            {
+                "character": "aku ankka",
+                "issue": "74",
+                "page": 5,
+                "publication": "aku ankan taskukirja",
+                "title": "postimerkkeilyn säännöt"
+            }
+        ],
         "murhaaja": [
             {
                 "character": "roope-setä",
