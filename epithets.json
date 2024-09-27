@@ -15933,7 +15933,15 @@
                 "title": "kelmien saari"
             }
         ],
-        "urvelon ärvelö": [],
+        "urvelon ärvelö": [
+            {
+                "character": "aku ankka",
+                "issue": "74",
+                "page": 26,
+                "publication": "aku ankan taskukirja",
+                "title": "aku ja menetetty onni"
+            }
+        ],
         "uuno": [
             {
                 "character": "aku ankka",
