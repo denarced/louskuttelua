@@ -2109,7 +2109,15 @@
                 "title": "roope-setä ja faaraon aarre"
             }
         ],
-        "häpeäpilkku": [],
+        "häpeäpilkku": [
+            {
+                "character": "roope-setä",
+                "issue": "96",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "jättien taisto"
+            }
+        ],
         "härkäpää": [
             {
                 "character": "mikki hiiri ja taikaviitta",
