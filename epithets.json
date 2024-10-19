@@ -12428,7 +12428,15 @@
                 "title": "roope-sedän vanha kirjoituskone"
             }
         ],
-        "pullisteleva rupikonna": [],
+        "pullisteleva rupikonna": [
+            {
+                "character": "roope-setä",
+                "issue": "96",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "jättien taisto"
+            }
+        ],
         "pullsorsa": [
             {
                 "character": "aku ja hannu",
