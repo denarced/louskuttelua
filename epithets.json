@@ -13713,7 +13713,15 @@
                 "title": "onni yhdellä, loma molemmilla, osa 1"
             }
         ],
-        "renttu": [],
+        "renttu": [
+            {
+                "character": "taikaviitta",
+                "issue": "98",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta joutuu koetukselle"
+            }
+        ],
         "repolainen": [
             {
                 "character": "roope-setä",
