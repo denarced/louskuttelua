@@ -4280,7 +4280,15 @@
                 "title": "roope-sedän hurja öljykuume"
             }
         ],
-        "juustopää": [],
+        "juustopää": [
+            {
+                "character": "taikaviitta",
+                "issue": "98",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta joutuu koetukselle"
+            }
+        ],
         "juutas": [
             {
                 "character": "roope-setä",
