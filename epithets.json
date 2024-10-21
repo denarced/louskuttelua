@@ -19216,7 +19216,15 @@
                 "title": "hankala sopimus"
             }
         ],
-        "vanha homekorva": [],
+        "vanha homekorva": [
+            {
+                "character": "taikaviitta",
+                "issue": "98",
+                "page": 34,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta ja kuunsädekulkuri"
+            }
+        ],
         "vanha houkka": [
             {
                 "character": "aku ankka",
