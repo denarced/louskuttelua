@@ -13296,7 +13296,15 @@
                 "title": "vuosisadan vaalitaisto, osa 4"
             }
         ],
-        "pönttö-örvelö": [],
+        "pönttö-örvelö": [
+            {
+                "character": "taikaviitta",
+                "issue": "98",
+                "page": 22,
+                "publication": "aku ankan taskukirja",
+                "title": "taikaviitta joutuu koetukselle"
+            }
+        ],
         "pöpi": [
             {
                 "character": "aku ankka",
