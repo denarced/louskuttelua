@@ -19126,7 +19126,15 @@
                 "title": "kaksintaistelu lumessa"
             }
         ],
-        "työnvieroksuja": [],
+        "työnvieroksuja": [
+            {
+                "character": "roope-setä",
+                "issue": "101",
+                "page": 28,
+                "publication": "aku ankan taskukirja",
+                "title": "palmulahdella tapahtuu"
+            }
+        ],
         "täiturkki": [],
         "tärkeilevä töyhtöhyyppä": [
             {
