@@ -8824,7 +8824,15 @@
                 "title": "vanki nimeltä taikaviitta, osa 2"
             }
         ],
-        "köydenkiristäjä": [],
+        "köydenkiristäjä": [
+            {
+                "character": "roope-setä",
+                "issue": "102",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "täplikäs valas"
+            }
+        ],
         "lahjaton laholatva": [
             {
                 "character": "juuso",
