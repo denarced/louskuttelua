@@ -5129,7 +5129,15 @@
                 "title": "maailman ensimmäinen jalkapallo-ottelu"
             }
         ],
-        "kahko": [],
+        "kahko": [
+            {
+                "character": "aku ankka",
+                "issue": "106",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "keskiaikaa kokemassa"
+            }
+        ],
         "kaikkien aikojen pölvästi": [
             {
                 "character": "aku ankka",
