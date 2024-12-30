@@ -13560,7 +13560,15 @@
                 "title": "roopen kasvitieteelliset kokeilut"
             }
         ],
-        "nolla": [],
+        "nolla": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 20,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "nousukas": [
             {
                 "character": "roope-setä",
