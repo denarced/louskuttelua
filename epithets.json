@@ -13538,7 +13538,15 @@
                 "title": "esinäytös"
             }
         ],
-        "niuhottaja": [],
+        "niuhottaja": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "niuhottava moralisti": [
             {
                 "character": "aku ankka",
