@@ -13658,7 +13658,15 @@
                 "title": "kosto on suloista"
             }
         ],
-        "nulikka": [],
+        "nulikka": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 16,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "nuljaska": [
             {
                 "character": "roope-setä",
