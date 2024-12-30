@@ -20280,7 +20280,15 @@
                 "title": "aku salaisessa palveluksessa"
             }
         ],
-        "sortaja": [],
+        "sortaja": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "sovinistisika": [
             {
                 "character": "aku ankka",
