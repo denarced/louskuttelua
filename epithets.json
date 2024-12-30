@@ -5284,7 +5284,15 @@
                 "title": "hankala sopimus"
             }
         ],
-        "juppierämies": [],
+        "juppierämies": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 39,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "jurakautinen fossiili": [
             {
                 "character": "roope-setä",
