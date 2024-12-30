@@ -7335,7 +7335,15 @@
                 "title": "sota ja rauha"
             }
         ],
-        "ketkale": [],
+        "ketkale": [
+            {
+                "character": "taikaviitta",
+                "issue": "125",
+                "page": 33,
+                "publication": "aku ankan taskukirja",
+                "title": "ajatuskello"
+            }
+        ],
         "ketku": [
             {
                 "character": "roope-setä",
