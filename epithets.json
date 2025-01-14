@@ -18920,7 +18920,15 @@
                 "title": "palvelijain kaksintaisto"
             }
         ],
-        "rahjus": [],
+        "rahjus": [
+            {
+                "character": "roope-setä",
+                "issue": "144",
+                "page": 31,
+                "publication": "aku ankan taskukirja",
+                "title": "teksasin öljy"
+            }
+        ],
         "raihnainen pahkasika": [
             {
                 "character": "aku ankka",
