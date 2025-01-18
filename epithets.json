@@ -21503,7 +21503,15 @@
                 "title": "monte-criston kreivin aarre"
             }
         ],
-        "räyskäle": [],
+        "räyskäle": [
+            {
+                "character": "aku ankka",
+                "issue": "147",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "erään ankan muodonmuutos - 1. osa"
+            }
+        ],
         "räähkä": [
             {
                 "character": "roope-setä",
