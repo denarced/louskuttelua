@@ -13422,7 +13422,15 @@
                 "title": "etelämeren turjake"
             }
         ],
-        "lapatossu": [],
+        "lapatossu": [
+            {
+                "character": "roope-setä",
+                "issue": "163",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "konnankoukkuja koplalle"
+            }
+        ],
         "laskelmoiva kutmu": [
             {
                 "character": "roope-setä",
