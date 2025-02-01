@@ -26566,7 +26566,15 @@
                 "title": "taistelu kruunusta"
             }
         ],
-        "tuhvero": [],
+        "tuhvero": [
+            {
+                "character": "roope-setä",
+                "issue": "163",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "konnankoukkuja koplalle"
+            }
+        ],
         "tuittupää": [
             {
                 "character": "aku ankka",
