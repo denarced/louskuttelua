@@ -4587,7 +4587,15 @@
                 "title": "suuri salaisuus"
             }
         ],
-        "höyhenaivo": [],
+        "höyhenaivo": [
+            {
+                "character": "roope-setä",
+                "issue": "179",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "puijaripotkat"
+            }
+        ],
         "höyhenpukuinen mitättömyys": [
             {
                 "character": "aku ankka",
