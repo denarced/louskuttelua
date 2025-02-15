@@ -2281,7 +2281,15 @@
                 "title": "painonsa arvoinen seikkailu"
             }
         ],
-        "holhoava harakka": [],
+        "holhoava harakka": [
+            {
+                "character": "roope-setä",
+                "issue": "180",
+                "page": 21,
+                "publication": "aku ankan taskukirja",
+                "title": "rahakuume"
+            }
+        ],
         "holtiton tuhlari": [
             {
                 "character": "aku ankka",
