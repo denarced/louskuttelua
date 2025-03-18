@@ -15419,7 +15419,15 @@
                 "title": "pallokoulu kiertueella, toinen puoliaika"
             }
         ],
-        "latvakakkonen": [],
+        "latvakakkonen": [
+            {
+                "character": "aku ankka",
+                "issue": "200",
+                "page": 19,
+                "publication": "aku ankan taskukirja",
+                "title": "viiman viemää"
+            }
+        ],
         "latvalaho": [],
         "laverteleva pohatta": [
             {
