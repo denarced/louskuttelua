@@ -18381,7 +18381,15 @@
                 "title": "kultaa ja sirpaleita"
             }
         ],
-        "luuseri": [],
+        "luuseri": [
+            {
+                "character": "hannu hanhi",
+                "issue": "221",
+                "page": 9,
+                "publication": "aku ankan taskukirja",
+                "title": "oikukas onni"
+            }
+        ],
         "luuska": [
             {
                 "character": "aku ankka",
