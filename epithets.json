@@ -41067,7 +41067,15 @@
                 "title": "ilmaradan urbaani syke"
             }
         ],
-        "vakuumikallo": [],
+        "vakuumikallo": [
+            {
+                "character": "aku ankka",
+                "issue": "235",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "ehtoja elämyksiä"
+            }
+        ],
         "valehtelija": [
             {
                 "character": "aku ankka",
