@@ -42163,7 +42163,15 @@
                 "title": "viiman viemää"
             }
         ],
-        "täiturkki": [],
+        "täiturkki": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "tärkeilevä töyhtöhyyppä": [
             {
                 "character": "aku ankka",
