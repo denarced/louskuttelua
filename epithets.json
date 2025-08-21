@@ -686,7 +686,15 @@
                 "title": "ritari aku ja lampun henki"
             }
         ],
-        "alkulima": [],
+        "alkulima": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "aloittelija": [
             {
                 "character": "roope-setä",
