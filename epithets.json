@@ -16452,7 +16452,15 @@
                 "title": "rakkaat viholliset"
             }
         ],
-        "kumipää": [],
+        "kumipää": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "kunniaton ketku": [
             {
                 "character": "roope-setä",
