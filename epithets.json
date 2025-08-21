@@ -16355,7 +16355,15 @@
                 "title": "narri naamion takana"
             }
         ],
-        "kulahtanut kalkkuna": [],
+        "kulahtanut kalkkuna": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "kulahtanut knallipää": [
             {
                 "character": "aku ankka",
