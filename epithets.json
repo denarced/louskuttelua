@@ -1293,7 +1293,15 @@
                 "title": "tohvelisankarin osa"
             }
         ],
-        "ektoplasma": [],
+        "ektoplasma": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "elikko": [
             {
                 "character": "roope-setä",
