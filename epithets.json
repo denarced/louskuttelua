@@ -15264,7 +15264,15 @@
                 "title": "point nemoa etsimässä"
             }
         ],
-        "koliikki": [],
+        "koliikki": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 10,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "kolipää": [
             {
                 "character": "aku ankka",
