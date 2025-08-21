@@ -36151,7 +36151,15 @@
                 "title": "bagdadin varas"
             }
         ],
-        "sulkasatoinen saivare": [],
+        "sulkasatoinen saivare": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "sulkasatoinen sorsa": [
             {
                 "character": "roope-setä",
