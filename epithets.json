@@ -19453,7 +19453,15 @@
                 "title": "avaruuden rajamailla"
             }
         ],
-        "latvalaho": [],
+        "latvalaho": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 40,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "laverteleva pohatta": [
             {
                 "character": "taikaviitta",
