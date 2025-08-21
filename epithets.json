@@ -49003,7 +49003,15 @@
                 "title": "ylätasangon huilutanssija"
             }
         ],
-        "ärmätti": [],
+        "ärmätti": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 2,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "ärvelö": [
             {
                 "character": "roope-setä",
