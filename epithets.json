@@ -43449,7 +43449,15 @@
                 "title": "kultaiset katukivet"
             }
         ],
-        "untuvakallo": [],
+        "untuvakallo": [
+            {
+                "character": "aku ankka",
+                "issue": "245",
+                "page": 11,
+                "publication": "aku ankan taskukirja",
+                "title": "solvausselkkaus"
+            }
+        ],
         "untuvikko": [
             {
                 "character": "roope-setä",
