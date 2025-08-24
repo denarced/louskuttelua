@@ -1875,7 +1875,7 @@
                 "title": "mies naamion takana, osa 2"
             },
             {
-                "character": "roope, mummo \u0026 karhuvaari",
+                "character": "roope, mummo & karhuvaari",
                 "issue": "493",
                 "page": 17,
                 "publication": "aku ankan taskukirja",
@@ -2179,7 +2179,7 @@
         ],
         "hampuusi": [
             {
-                "character": "roope, mummo \u0026 karhuvaari",
+                "character": "roope, mummo & karhuvaari",
                 "issue": "493",
                 "page": 17,
                 "publication": "aku ankan taskukirja",
@@ -7552,6 +7552,13 @@
                 "page": 18,
                 "publication": "aku ankan taskukirja",
                 "title": "hopea-aku"
+            },
+            {
+                "character": "roope-setä",
+                "issue": "246",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "kadonneen kaupungin kulta"
             }
         ],
         "ilkeämielinen ketale": [
@@ -13376,7 +13383,7 @@
         ],
         "kikkanokka": [
             {
-                "character": "mikki hiiri \u0026 musta pekka",
+                "character": "mikki hiiri & musta pekka",
                 "issue": "510",
                 "page": 23,
                 "publication": "aku ankan taskukirja",
@@ -36769,7 +36776,7 @@
                 "title": "vuokramolekyylit"
             },
             {
-                "character": "roope, mummo \u0026 karhuvaari",
+                "character": "roope, mummo & karhuvaari",
                 "issue": "493",
                 "page": 24,
                 "publication": "aku ankan taskukirja",
