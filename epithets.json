@@ -36282,7 +36282,15 @@
                 "title": "lunnaat intiaanitapaan"
             }
         ],
-        "sarvisankainen seittejä siivoava tekoteemikko": [],
+        "sarvisankainen seittejä siivoava tekoteemikko": [
+            {
+                "character": "roope-setä",
+                "issue": "251",
+                "page": 6,
+                "publication": "aku ankan taskukirja",
+                "title": "jalometallikuume"
+            }
+        ],
         "saviaivo": [
             {
                 "character": "aku ankka",
