@@ -44393,7 +44393,15 @@
                 "title": "hirveyksiä koko rahalla"
             }
         ],
-        "törpöin tumpelo": [],
+        "törpöin tumpelo": [
+            {
+                "character": "aku ankka",
+                "issue": "251",
+                "page": 4,
+                "publication": "aku ankan taskukirja",
+                "title": "tie tähtiin"
+            }
+        ],
         "törsääjä": [
             {
                 "character": "roope-setä",
