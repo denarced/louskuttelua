@@ -1573,7 +1573,15 @@
                 "title": "ankkojen maine ja kunnia: kanuunanjylyä mississipillä"
             }
         ],
-        "elostelija": [],
+        "elostelija": [
+            {
+                "character": "aku ankka",
+                "issue": "278",
+                "page": 35,
+                "publication": "aku ankan taskukirja",
+                "title": "uhka syvyyksistä"
+            }
+        ],
         "elukka": [
             {
                 "character": "aku ankka",
