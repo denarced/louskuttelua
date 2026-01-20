@@ -10726,7 +10726,15 @@
                 "title": "kaikkeen sitä joutuu!"
             }
         ],
-        "juorukello": [],
+        "juorukello": [
+            {
+                "character": "roope-setä",
+                "issue": "278",
+                "page": 17,
+                "publication": "aku ankan taskukirja",
+                "title": "kevätkupru"
+            }
+        ],
         "juorutantta": [
             {
                 "character": "iines ankka",
