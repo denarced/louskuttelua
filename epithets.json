@@ -23852,7 +23852,15 @@
                 "title": "suuri aarteenetsintäleikki"
             }
         ],
-        "lemmenkipeä lahopää": [],
+        "lemmenkipeä lahopää": [
+            {
+                "character": "hannu hanhi",
+                "issue": "290",
+                "page": 18,
+                "publication": "aku ankan taskukirja",
+                "title": "hetken huumaa"
+            }
+        ],
         "lemmon lattanokka": [
             {
                 "character": "roope-setä",
