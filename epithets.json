@@ -13329,7 +13329,15 @@
                 "title": "tamppaajien saarella"
             }
         ],
-        "karvapeitteinen kanalja": [],
+        "karvapeitteinen kanalja": [
+            {
+                "character": "aku \u0026 touho",
+                "issue": "290",
+                "page": 15,
+                "publication": "aku ankan taskukirja",
+                "title": "loisto-otoksia"
+            }
+        ],
         "karvaturri": [
             {
                 "character": "aku ankka",
